@@ -24,6 +24,6 @@ O que você precisa para roda a aplicação.
 JDK 11
 ```
 
-Após instalar o JDK é necessario rodas as classes que estão na masta exerciciosApplication, onde cada classe representa um exercicio 
+Após instalar o JDK é necessario rodas as classes que estão na pasta exerciciosApplication, onde cada classe representa um exercicio 
 
 
